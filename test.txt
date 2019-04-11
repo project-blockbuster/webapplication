@@ -7,7 +7,5 @@ added line number 6
 added line number 7
 added line number 8
 added line number 9
-added line number 10
-added line number 11
 added line number 12
 
